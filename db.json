@@ -1,7 +1,7 @@
 {
 	"data": [
-		{ "id": 1, "doctor":"Ford", "facility": "Acme Medical", "city": "Jackson" },
-		{ "id": 2, "doctor":"James", "facility": "Barton Oncology", "city": "San Diego" },
-		{ "id": 3, "doctor":"Mitchell", "facility": "Tempe Retina", "city": "Glendale" }
+		{ "id": 1, "token":"0007655", "fid":"6876879", "doctor":"Ford", "practice": "Acme Medical", "cityst": "Jackson, MS" },
+		{ "id": 2, "token":"1000007", "fid":"0012553", "doctor":"James", "practice": "Barton Oncology", "cityst": "San Diego, CA" },
+		{ "id": 3, "token":"3675567", "fid":"1200076", "doctor":"Mitchell", "practice": "Tempe Retina", "cityst": "Glendale, AZ" }
 	]
 }
