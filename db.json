@@ -4,4 +4,9 @@
 		{ "id": 2, "token":"1000007", "fid":"0012553", "doctor":"James", "practice": "Barton Oncology", "cityst": "San Diego, CA" },
 		{ "id": 3, "token":"3675567", "fid":"1200076", "doctor":"Mitchell", "practice": "Tempe Retina", "cityst": "Glendale, AZ" }
 	]
+},
+{
+	"pinfo": [
+		{"customerId":27346,"customerNumber":"0000008015","customerName":"#008015 North Medical Foundation" }
+	]
 }
